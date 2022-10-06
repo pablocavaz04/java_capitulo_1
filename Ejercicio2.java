@@ -4,4 +4,3 @@ public class Ejercicio2 {
         System.out.println("Pasillo de sierra blanca 14,1");
         System.out.println("618381824");
     }
-}
